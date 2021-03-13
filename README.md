@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sebamosquera
-- 👀 I’m interested in ... the integration of Electronics and Software
+- 👀 I’m interested in ... Sports, Technology and Music
 - 🌱 I’m currently learning ... Javascript, React and Node among other things
 - 💞️ I’m looking to collaborate on ... a challenging Project to level up my skills
 - 📫 How to reach me ... send me an email to smosquera@gmail.com !
