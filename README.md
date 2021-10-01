@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @sebamosquera
-- I’m interested in Sports, Technology and Music
-- Currently learning Python, Javascript, C, Algorithms and various other things
-- Looking to collaborate on a challenging Project to level up my skills
+
 - 📫 If you want to reach me send me an email to sebastianmosquera86@gmail.com
 
 <!---
