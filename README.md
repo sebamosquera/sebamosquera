@@ -1,4 +1,4 @@
-- 👋 Hi, I’m seba.
+- 👋 Hi, I’m seba
 
 - 📫 If you want to reach me send me an email to sebastianmosquera86@gmail.com
 
